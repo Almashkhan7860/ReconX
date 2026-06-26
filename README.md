@@ -95,7 +95,8 @@ Run all reconnaissance modules together and generate a complete overview of the 
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ReconX.git
+git clone https://github.com/Almashkhan7860/ReconX.git
+
 cd ReconX
 
 Install dependencies:
